@@ -1,13 +1,13 @@
-package com.tanab.product.prodcust;
+package com.yubraj.hackthon.productsupply.exampratcise;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProdcustApplication {
+public class ExampratciseApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ProdcustApplication.class, args);
+        SpringApplication.run(ExampratciseApplication.class, args);
     }
 
 }
